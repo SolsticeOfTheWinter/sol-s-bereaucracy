@@ -1,31 +1,43 @@
-# Code Epsilon Request
-[color=#1b67a5]█▄ █ ▀█▀    [head=3]Central Command Request[/head]
-█ ▀█     █        [/color]
-[italic][color=#E5E5E5]This document contains classified information. DO NOT DISTRIBUTE.[/italic][/color]
-[head=3][color=#2E0404]SECURE FAX
-DESTROY AFTER READING[/head][/color]
-[color=#AFAFAF]▌ICD04839457[/color]
-[color=#1b67a5]╔═════════════════╦══════════════════════╗[/color]
-[color=#1b67a5]║███░███░░░░██░░░░║[/color]SUBJECT: [color=black]███████████████[/color]
-[color=#1b67a5]║░██░████░░░██░░░░║[/color]SENDER: [color=black]██████ █████[/color]
-[color=#1b67a5]║░░█░██░██░░██░█░░║[/color]RECIPIENT: [color=black]███ ██████[/color]
-[color=#1b67a5]║░░░░██░░██░██░██░║[/color]FAX #42803
-[color=#1b67a5]║░░░░██░░░████░███║[/color]MACHINE ID: [color=black]██████[/color]
-[color=#1b67a5]╚═════════════════╩══════════════════════╝[/color]
-[head=3]Nanotransen Incorporated[/head]
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    [color=#aaaaaa][italic]START FAX[/italic][/color]
-	
-	 [bold]Ordered by : Ophelia Von Voltaire [/bold]
-	
-	 [bold]Current Position : Central Command Audit Officer & Nanotransen Representative [/bold]
-	
-	 [bold]Reason for Order : [/bold]
-	
-	 [bold]Requested Alert Level : Epsilon [/bold]
-	 
-	 *[italic][color=#ac3a0d]This form is only to request a Code Epsilon, meaning immediate contract termination of all staff members aboard the station. False or 'joking' uses of this form will result can result in up to 48 months in jail and a fine of 30000 spesos.[/italic][/color]
-	
-	 *[italic][color=#ac3a0d]In the event of a successful Code Epsilon, the author of this form may be granted immunity.[/italic][/color]
-	
-	[color=#aaaaaa][italic]END FAX[/italic][/color]
+# N.I.A.D Classified Document
+[color=#1b67a5]║░██░░░░██░║
+║░███░░░██░║
+║░██░██░██░║
+║░██░░░███░║[head=2][italic] I. A. D [/italic][/head][/color]
+[color=#1b67a5]▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀[/color]
+[color=#1b67a5]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
+▌[head=3][bold]SUBJECT: [/head][head=3]{CODE EPSILON REQUEST}[/bold][/head] 
+▌[head=3][ID: #NT-9242][/bold][/head] 
+[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+▌[italic][color=#babac2]Clearance: ULTRAVIOLET[/italic][/color]
+▌[italic][color=#babac2]Courtesy of : Cecille Voltaire, Central Command Agent[/italic][/color]
+▌[italic][color=#babac2]Date: 02/23/2872[/italic][/color]
+[color=#1b67a5]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
+
+[head=3][head=2]1. [/head]Compiler Information.[/head]
+→[italic] Information regarding the compiler of the document.[/italic]
+[color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
+[bold]Legal Name:[/bold][color=#babac2] Ophelia Lockhart Voltaire. [/color] 
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Current Position:[/bold][color=#babac2] Central Command Auditor & Nanotrasen Representative. [/color] 
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Requested Alert Level:[/bold][color=#babac2] Epsilon. [/color] 
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ 
+════════════════════════════════════
+[head=3][head=2]2. [/head]Reasoning.[/head]
+→[italic] Reasoning behind the request.[/italic]
+[color=#babac2]••••••••••••••••••••••••••••••••••[/color]
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#babac2]
+
+Sample paragraph.
+
+[/color]  
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+════════════════════════════════════
+[italic][color=#ac3a0d]* By submitting this form to Central Command, the Author personally certifies that the contents of the form are accurate to the best of their ability. Submitting false reports can result in a fine of up to 2000 spesos and possible disciplinary action in accordance with NT handbook §17.2 [/italic][/color]
+[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]  
+
+ [italic] Sign below: [/italic]

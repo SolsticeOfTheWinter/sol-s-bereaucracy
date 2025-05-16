@@ -1,14 +1,12 @@
 # N.I.A.D Template
-[color=#1b67a5]
-╔══════════╗
-║░██░░░░██░║
+[color=#1b67a5]║░██░░░░██░║
 ║░███░░░██░║
 ║░██░██░██░║
-║░██░░░███░║
-╚══════════╝[head=2][italic] I. A. D [/italic][/head]
-▀▄▀▄▀▄▀▄▀▄▀▄[/color][italic] Nanotrasen Internal Affairs Department[/italic]
+║░██░░░███░║[head=2][italic] I. A. D [/italic][/head][/color]
+[color=#1b67a5]▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀[/color]
 [color=#1b67a5]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
-[head=2][bold]SUBJECT: [/head][head=3][color=#babac2][Placeholder: Incident #NT-XXXX][/color][/bold][/head] 
+▌[head=3][bold]SUBJECT: [/head][head=3]{PLACEHOLDER}[/bold][/head] 
+▌[head=3][ID: #NT-XXXX][/bold][/head] 
 [color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 ▌[italic][color=#babac2]Clearance: RED[/italic][/color]
 ▌[italic][color=#babac2]Courtesy of : Cecille Voltaire, Central Command Agent[/italic][/color]
@@ -18,15 +16,11 @@
 [head=3][head=2]1. [/head]Header.[/head]
 →[italic] Description.[/italic]
 [color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
-[bold]Location:[/bold] [color=#babac2] Sample. [/color] 
+[bold]Question:[/bold][color=#babac2] Answer. [/color] 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]Time of Occurrence:[/bold] [color=#babac2] Sample. [/color]
+[bold]Question:[/bold][color=#babac2] Answer. [/color] 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]Personnel Involved:[/bold] [color=#babac2] Sample. [/color]
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]  
-  
-
+ 
 ════════════════════════════════════
 [head=3][head=2]2. [/head]Header.[/head]
 →[italic] Description.[/italic]
@@ -54,7 +48,7 @@ Answer Two - ( ✘ )
 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ════════════════════════════════════
-[italic][color=#ac3a0d]* By submitting this form to Central Command, the Author personally certifies that the contents of the form are accurate to the best of their ability. Submitting false reports can result in a fine of up to 2000 spesos and possible disciniplinary action in accordance with NT handbook §17.2 [/italic][/color]
+[italic][color=#ac3a0d]* By submitting this form to Central Command, the Author personally certifies that the contents of the form are accurate to the best of their ability. Submitting false reports can result in a fine of up to 2000 spesos and possible disciplinary action in accordance with NT handbook §17.2 [/italic][/color]
 [color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]  
 
  [italic] Sign below: [/italic]
