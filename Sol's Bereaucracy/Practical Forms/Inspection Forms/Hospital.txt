@@ -1,0 +1,65 @@
+# N.I.A.D Hospital Inspection Form
+[color=#1b67a5]░██░░░░██░║
+░███░░░██░║
+░██░██░██░║
+░██░░░███░║[head=2][italic] I. A. D [/italic][/head]
+▀▄▀▄▀▄▀ ▄▀▄[/color] [italic] Nanotrasen Internal Affairs Department[/italic]
+
+[head=2] Hospital Inspection Form [/head]
+[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[italic] Courtesy of : Ophelia Voltaire, Internal Affairs Agent [/italic]
+[italic] Inspection Date : August 28th, 2872 [/italic]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=3][head=2]1. [/head]Major Violations[/head]
+\[  ] Unsafe chemicals in treatment areas
+\[  ] Improperly trained staff.
+\[  ] Organs/carcasses/rotting meat present
+\[  ] Excessive blood on the floor in treatment areas
+\[  ] Unsafe chemicals used on patients
+\[  ] Radioactive materials present
+\[  ] Illegal operations being performed
+\[  ] Biomass reclaimer in close proximity to treatment area
+
+*[italic][color=#ac3a0d] All major violations must be rectified as soon as possible.
+If more than one major violation is present, the hospital must not be allowed to treat patients until violations are rectified.
+Any major violation warrants an automatic F score. [/italic][/color]
+════════════════════════════════════
+[head=3][head=2]2. [/head]Minor Violations[/head]
+1 \[  ] Insufficient light for safe treatment
+1 \[  ] No hand-washing area
+1 \[  ] Syringes unsterile
+2 \[  ] Non-sterile treatment areas.
+2 \[  ] Structural Violations.
+2 \[  ] Organs kept un-refrigerated
+3 \[  ] Improper Personal Protective Attire
+3 \[  ] Improper Treatment of Patients
+3 \[  ] Animals in treatment area
+
+[bold]Additional observations & deductions: [/bold]
+[color=#002AAF]Information here[/color]
+════════════════════════════════════
+[head=3][head=2]3. [/head]Inspection Results[/head]
+
+[bold]Violations to Points Key [/bold]
+0-2: A
+3-4: B
+5-6: C
+7-8: D
+9+: F
+
+[bold] Tallied points from all violations : [/bold]
+
+The hospital scored a [bold][color=#FF0000]GRADE[/color][/bold]. The doctors are advised to work on the following improvements:
+[color=#002AAF]Write detailed observations here, including suggested improvements and comments on staff behavior.[/color]
+════════════════════════════════════
+[head=3][head=2]4. [/head]Follow-up Actions[/head]
+\[ ] Close the Hospital temporarily.  
+\[ ] Provide additional training to staff.
+\[ ] Report to Central Command for further review.
+\[ ] Verbal Reprimands Given.
+\[ ] Not Applicable
+════════════════════════════════════
+*[italic][color=#ac3a0d]By submitting this form to Central Command, the Author personally certifies that the contents of the form are accurate to the best of their ability. Submitting false reports can result in a fine of up to 2000 spesos and possible disciniplinary action.[/italic][/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+[head=1][italic] STAMP HERE [/italic][/head]
