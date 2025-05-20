@@ -15,18 +15,17 @@
 
 [head=3][head=2]1. [/head]Compiler Information.[/head]
 →[italic] Information regarding the compiler of the document.[/italic]
-[color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 [bold]Legal Name:[/bold][color=#babac2] Ophelia Lockhart Voltaire. [/color] 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Current Position:[/bold][color=#babac2] Central Command Auditor & Nanotrasen Representative. [/color] 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Requested Alert Level:[/bold][color=#babac2] Epsilon. [/color] 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
- 
-════════════════════════════════════
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 [head=3][head=2]2. [/head]Reasoning.[/head]
 →[italic] Reasoning behind the request.[/italic]
-[color=#babac2]••••••••••••••••••••••••••••••••••[/color]
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#babac2]
@@ -36,7 +35,7 @@ Sample paragraph.
 [/color]  
 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-════════════════════════════════════
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 [italic][color=#ac3a0d]* By submitting this form to Central Command, the Author personally certifies that the contents of the form are accurate to the best of their ability. Submitting false reports can result in a fine of up to 2000 spesos and possible disciplinary action in accordance with NT handbook §17.2 [/italic][/color]
 [color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]  
 
