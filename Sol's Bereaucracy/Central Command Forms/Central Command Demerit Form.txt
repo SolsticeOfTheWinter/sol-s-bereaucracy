@@ -1,20 +1,19 @@
 # N.I.A.D Demerit Form
-[color=#1b67a5]║░██░░░░██░║
+[color=#1e7f28]║░██░░░░██░║
 ║░███░░░██░║
 ║░██░██░██░║[head=2][italic] I. A. D [/italic][/head]
 ║░██░░░███░║[/color][head=3][italic][color=#babac2] Internal Affairs Department [/italic][/head][/color]
-[color=#1b67a5]▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀[/color]
-[color=#1b67a5]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
+[color=#1e7f28]▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀[/color]
+[color=#1e7f28]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
 [head=2][bold]SUBJECT: [/head][head=3][color=#babac2]{Demerit Record Form}[/color][/bold][/head] 
 [head=2][bold]ID: [/head][head=3][color=#babac2][#NT-4141][/color][/bold][/head] 
-[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#1e7f28]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 ▌[italic][color=#babac2]Clearance: BLUE[/italic][/color]
 ▌[italic][color=#babac2]Courtesy of : Kestrel Voltaire, Central Command Agent[/italic][/color]
 ▌[italic][color=#babac2]Date: 02/23/XX72[/italic][/color]
-[color=#1b67a5]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
+[color=#1e7f28]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
 →[italic] The Devil's in the details.[/italic]
 ════════════════════════════════════
-
 [head=3][head=2]1. [/head]Employee Information.[/head]
 →[italic] Include relevant information regarding the employee.[/italic]
 [color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
@@ -73,4 +72,4 @@ Sample paragraph.
 *[italic][color=#ac3a0d]By submitting this form to Central Command, the Author personally certifies that the contents of the form are accurate to the best of their ability. Submitting false reports can result in a fine of up to 2000 spesos and possible disciniplinary action.[/italic][/color]
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
- [italic] Sign below: [/italic]
+[head=1][italic] STAMP HERE [/italic][/head]

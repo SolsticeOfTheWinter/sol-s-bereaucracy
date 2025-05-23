@@ -1,21 +1,24 @@
-# {CENTRAL COMMAND}
+# N.I.A.D Classified Document
 [color=#1e7f28]║░██░░░░██░║
 ║░███░░░██░║
 ║░██░██░██░║[head=2][italic] I. A. D [/italic][/head]
 ║░██░░░███░║[/color][head=3][italic][color=#babac2] Internal Affairs Department [/italic][/head][/color]
 [color=#1e7f28]▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀[/color]
 [color=#1e7f28]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
-[head=2][bold]SUBJECT: [/head][head=3][color=#babac2]{Central Command Letter}[/color][/bold][/head] 
-[head=2][bold]ID: [/head][head=3][color=#babac2][#NT-3927][/color][/bold][/head] 
+[head=2][bold]SUBJECT: [/head][head=3][color=#babac2]{Code Epsilon Enactment}[/color][/bold][/head] 
+[head=2][bold]ID: [/head][head=3][color=#babac2][#NT-9921][/color][/bold][/head] 
 [color=#1e7f28]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-▌[italic][color=#babac2]Clearance: GREEN[/italic][/color]
-▌[italic][color=#babac2]Courtesy of : Kestrel Voltaire, Internal Affairs Official[/italic][/color]
-▌[italic][color=#babac2]Date: 02/23/XX72[/italic][/color]
+▌[italic][color=#babac2]Clearance: ULTRAVIOLET[/italic][/color]
+▌[italic][color=#babac2]Courtesy of : Kestrel Voltaire, Central Command Agent[/italic][/color]
+▌[italic][color=#babac2]Date: 02/26/XX72[/italic][/color]
 [color=#1e7f28]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
 →[italic] A message from your pals at Central Command.[/italic]
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
-Nothing ever happens.
+Under the authority of NT handbook 17.2; I, Kestrel Cecille Voltaire, hereby declare the alert level of Epsilon upon this station.
+All surviving personnels contracts are hereby terminated.
+
+Command members are instructed to surrender first. They are to act as an example for the rest of the crew.
 
 - Internal Affairs Official, Kestrel Voltaire
 

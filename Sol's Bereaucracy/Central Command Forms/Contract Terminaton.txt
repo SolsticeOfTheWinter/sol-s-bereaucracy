@@ -1,17 +1,17 @@
-# Contract Termination Request
-[color=#1b67a5]║░██░░░░██░║
+# Notice of Contract Termination
+[color=#1e7f28]║░██░░░░██░║
 ║░███░░░██░║
 ║░██░██░██░║[head=2][italic] I. A. D [/italic][/head]
 ║░██░░░███░║[/color][head=3][italic][color=#babac2] Internal Affairs Department [/italic][/head][/color]
-[color=#1b67a5]▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀[/color]
-[color=#1b67a5]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
+[color=#1e7f28]▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀[/color]
+[color=#1e7f28]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
 [head=2][bold]SUBJECT: [/head][head=3][color=#babac2]{Demotion Form}[/color][/bold][/head] 
 [head=2][bold]ID: [/head][head=3][color=#babac2][#NT-2341][/color][/bold][/head] 
-[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#1e7f28]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 ▌[italic][color=#babac2]Clearance: GREEN[/italic][/color]
 ▌[italic][color=#babac2]Courtesy of : Kestrel Voltaire, Central Command Agent[/italic][/color]
 ▌[italic][color=#babac2]Date: 02/23/XX72[/italic][/color]
-[color=#1b67a5]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
+[color=#1e7f28]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
 →[italic] The Devil's in the details.[/italic]
 ════════════════════════════════════
 
@@ -60,9 +60,21 @@ Sample paragraph.
 
 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+════════════════════════════════════
+
+
+ *This employees contract is being [bold][color=#ac3a0d] Terminated [/color][/bold]
+ 
+ *If you are recieving this form, your contract has been terminated. Please report to the HoPs office for reassignment and turn in all job related equipment to your (former) departments head.
+ 
+ 
+ [bold] Thank you for your co-operation. Nanotrasen sends its regards. [/bold]
+
+
 ════════════════════════════════════
 
 *[italic][color=#ac3a0d]By reading this document, the reader agrees that they either have the required clearance, or that they consent to memory wiping if neccessary. They reader also agrees to dispose of this paper accordingly if so required by the clearance level.[/italic][/color]
-[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]  
+[color=#1e7f28]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]  
 
  [italic] Sign below: [/italic]

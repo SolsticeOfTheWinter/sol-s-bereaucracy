@@ -1,28 +1,30 @@
-# N.I.A.D Template
+# N.I.A.D Form
 [color=#1b67a5]║░██░░░░██░║
 ║░███░░░██░║
 ║░██░██░██░║[head=2][italic] I. A. D [/italic][/head]
 ║░██░░░███░║[/color][head=3][italic][color=#babac2] Internal Affairs Department [/italic][/head][/color]
 [color=#1b67a5]▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀[/color]
 [color=#1b67a5]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
-[head=2][bold]SUBJECT: [/head][head=3][color=#babac2]{Placeholder}[/color][/bold][/head] 
+[head=2][bold]SUBJECT: [/head][head=3][color=#babac2]{Central Command Letter}[/color][/bold][/head] 
 [head=2][bold]ID: [/head][head=3][color=#babac2][#NT-3927][/color][/bold][/head] 
-[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 ▌[italic][color=#babac2]Clearance: GREEN[/italic][/color]
-▌[italic][color=#babac2]Courtesy of : Samantha Withers, Central Command Agent[/italic][/color]
+▌[italic][color=#babac2]Courtesy of : Kestrel Voltaire, Central Command Agent[/italic][/color]
 ▌[italic][color=#babac2]Date: 02/23/XX72[/italic][/color]
 [color=#1b67a5]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
+→[italic] A message from your pals at Central Command.[/italic]
+════════════════════════════════════
 
 [head=3][head=2]1. [/head]Header.[/head]
 →[italic] Description.[/italic]
 [color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
-[bold]Question:[/bold][color=#babac2] Answer. [/color] 
+[bold]Question:[/bold] [color=#babac2] Answer. [/color] 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]Question:[/bold][color=#babac2] Answer. [/color] 
+
+[bold]Question:[/bold] [color=#babac2] Answer. [/color] 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
  
 ════════════════════════════════════
-
 [head=3][head=2]2. [/head]Header.[/head]
 →[italic] Description.[/italic]
 [color=#babac2]••••••••••••••••••••••••••••••••••[/color]
@@ -37,20 +39,24 @@ Sample paragraph.
 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ════════════════════════════════════
-
 [head=3][head=2]3. [/head]Header.[/head]
 →[italic] Description.[/italic]
 [color=#babac2]••••••••••••••••••••••••••••••••••[/color]
 
 [bold] Subsection Header :  [/bold]
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Answer One - ( ✔ )
+\[ ✔ ] Answer One
 
-Answer Two - ( ✘ )
+\[ ✘ ] Answer Two
+
+\[    ] Answer Three
+
 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ════════════════════════════════════
-[italic][color=#ac3a0d]* By submitting this form to Central Command, the Author personally certifies that the contents of the form are accurate to the best of their ability. Submitting false reports can result in a fine of up to 2000 spesos and possible disciplinary action in accordance with NT handbook §17.2 [/italic][/color]
-[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]  
+
+*[italic][color=#ac3a0d]By reading this document, the reader agrees that they either have the required clearance, or that they consent to memory wiping if neccessary. They reader also agrees to dispose of this paper accordingly if so required by the clearance level.[/italic][/color]
+[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]  
 
  [italic] Sign below: [/italic]
+ 
