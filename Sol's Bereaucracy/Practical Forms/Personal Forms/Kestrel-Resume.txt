@@ -8,8 +8,8 @@
 [head=2][bold]SUBJECT: [/head][head=3][color=#babac2]{Jane Voltaire Resume}[/color][/bold][/head] 
 [head=2][bold]ID: [/head][head=3][color=#babac2][#NT-4242][/color][/bold][/head] 
 [color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-▌[italic][color=#babac2]Clearance: BLUE[/italic][/color]
-▌[italic][color=#babac2]Courtesy of : Jane Evelynn Voltaire, Assistant[/italic][/color]
+▌[italic][color=#babac2]Clearance: INFRARED[/italic][/color]
+▌[italic][color=#babac2]Courtesy of : Kestrel Cynthia Voltaire, Central Commander & Navy Captain[/italic][/color]
 ▌[italic][color=#babac2]Date: 02/23/XX72[/italic][/color]
 [color=#1b67a5]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
 →[italic] The Devil's in the details.[/italic]
@@ -18,46 +18,52 @@
 →[italic] Previous and/or current education.[/italic]
 [color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
 [bullet/] NT™ Primary School
-[bullet/] NT™ College of Bereaucracy
-[bullet/] NT™ Advanced Intern Training
-[bullet/] PHD in Brewing Coffee
+[bullet/] NT™ Advanced Combat Training
+[bullet/] NT™ Blueshield Officer Training
+[bullet/] PHD in Nuclear Physics
+[bullet/] Masters Degree in Healthcare Studies
 [bullet/] Central Command Basic Orientation Training
+[bullet/] Central Command Navy Academy
 [color=#babac2]••••••••••••••••••••••••••••••••••[/color]
 [head=3][head=2]2. [/head]Employment History.[/head]
 →[italic] Previous and/or current employment.[/italic]
 [color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
-[bold]Nanotransen™ Assistant [/bold] - Two Years
-[bullet/] Assisted several people in various tasks.
-[bullet/] Succeded in 2365 out of 2362 coffee runs.
-[bullet/] Survived 8 total station destruction events.
-[bold]Nanotransen™ Administrative Assistant [/bold] - Six Years
-[bullet/] Survived ██ Code Epsilons.
-[bullet/] Mindwiped 86 times.
-[bullet/] Shot 8 times.
+[bold]Nanotrasen™ Representative[/bold] - Two Years
+[bullet/] Efficient worker.
+[bullet/] Brutally honest.
+[bullet/] Shut down 182 stations.
+[bold]Nanotrasen™ Central Command Official[/bold] - Two Years
+[bullet/] Survived eighteen assassination attempts, and seventeen bullets to the chest.
+[bullet/] Oversaw twenty unique stations.
+[bold]Central Commander[/bold] - Four Years
+[bullet/] Killed a man by looking at him so hard he disintegrated.
+[bullet/] Drank enough poison to kill a platoon of men.
+[bullet/] Was struck by a ship mid FTL-movement. Survived with no injuries and the ship had to be decommissioned.
+[bold]Nanotrasen™ Navy Captain[/bold] - Four Years and Counting
+[bullet/] [REDACTED] - An active NDA disallows the sharing of this information.
 [color=#babac2]••••••••••••••••••••••••••••••••••[/color]
 [head=3][head=2]3. [/head]Personal Skills.[/head]
 →[italic] Useful skills for various activities.[/italic]
 [color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
-[bullet/]Intermediate-to-Advanced knowledge in all departments.
-[bullet/]Advanced Beureacratic training.
-[bullet/]Advanced People-Pleasing training.
-[bullet/]Basic First-aid training.
+[bullet/]Can turn people into ash with her mind.
+[bullet/]Advanced Marksmen Training
+[bullet/]Extremely Advanced Hand-to-Hand combat training.
+[bullet/]Advanced First-aid training.
+[bullet/]Advanced Beureaucracy skills
 [color=#babac2]••••••••••••••••••••••••••••••••••[/color]
 [head=3][head=2]4. [/head]Health Conditions.[/head]
 →[italic] Previous and/or current health conditions.[/italic]
 [color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
-[bullet/] In-capable of harming others physically.
-[bullet/] Near-sighted.
+[bullet/] Antisocial Personality Disorder.
+[bullet/] High-functioning Autism.
 [color=#babac2]••••••••••••••••••••••••••••••••••[/color]
 [head=3][head=2]5. [/head]Addendum.[/head]
 →[italic] Additional notes.[/italic]
 [color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]  
 [bullet/] Cellular damage related to bluespace experimentation.
 [bullet/] Parents were killed in bluespace-related accident.
-[bullet/] Has a twin sister, along with several non twins, that work for the same company.
 
 ════════════════════════════════════
 
 *[italic][color=#ac3a0d]By reading this document, the reader agrees that they either have the required clearance, or that they consent to memory wiping if neccessary. They reader also agrees to dispose of this paper accordingly if so required by the clearance level.[/italic][/color]
 [color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]  
-

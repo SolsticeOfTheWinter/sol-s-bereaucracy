@@ -1,59 +1,70 @@
-# Voltaire Family Resume
-[color=#1b67a5]░██░░░░██░║
-░███░░░██░║
-░██░██░██░║
-░██░░░███░║[head=2][italic] O. R. D [/italic][/head]
-▀▄▀▄▀▄▀ ▄▀▄[/color] [italic] Nanotrasen Organic Resources Department[/italic]
+# Resume
+[color=#1b67a5]║░██░░░░██░║
+║░███░░░██░║
+║░██░██░██░║[head=2][italic] O. R. D [/italic][/head]
+║░██░░░███░║[/color][head=3][italic][color=#babac2] Organic Resources Department [/italic][/head][/color]
+[color=#1b67a5]▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀[/color]
+[color=#1b67a5]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
+[head=2][bold]SUBJECT: [/head][head=3][color=#babac2]{Jane Voltaire Resume}[/color][/bold][/head] 
+[head=2][bold]ID: [/head][head=3][color=#babac2][#NT-4242][/color][/bold][/head] 
+[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+▌[italic][color=#babac2]Clearance: BLUE[/italic][/color]
+▌[italic][color=#babac2]Courtesy of : Delphine Elizabeth Voltaire, Blueshield Officer[/italic][/color]
+▌[italic][color=#babac2]Date: 02/23/XX72[/italic][/color]
+[color=#1b67a5]────────────────────⋆⋅☆⋅⋆──────────────────[/color]  
+→[italic] The Devil's in the details.[/italic]
+════════════════════════════════════
+[head=3][head=2]1. [/head]Education.[/head]
+→[italic] Previous and/or current education.[/italic]
+[color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
+[bullet/] NT™ Primary School
+[bullet/] NT™ Boot Camp
+[bullet/] NT™ Advanced Combat Training
+[bullet/] NT™ Blueshield Officer Training
+[bullet/] PHD in Nuclear Physics
+[bullet/] Masters Degree in Healthcare Studies
+[bullet/] Central Command Basic Orientation Training
+[color=#babac2]••••••••••••••••••••••••••••••••••[/color]
+[head=3][head=2]2. [/head]Employment History.[/head]
+→[italic] Previous and/or current employment.[/italic]
+[color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
+[bold]Nanotrasen™ Security Cadet[/bold] - One Years
+[bullet/] Top of her class.
+[bullet/] Apprehended a changeling in a one-on-one fight utilizing a stun baton.
+[bullet/] Reliable, hard worker.
+[bold]Nanotrasen™ Detective[/bold] - Two Years
+[bullet/] Apprehended several criminals
+[bullet/] Stopped a riot and terminated a traitorous captain.
+[bold]Central Command Peace-keeping Officer[/bold] - Four Years
+[bullet/] Killed over 120 syndicates agents.
+[bullet/] Rejected 152 out of 153 bribery attempts.
+[bullet/] Killed and revived a total of 236 times.
+[bold]Central Command Blueshield Officer Corps Liuetenant[/bold] - Four Years and Counting
+[bullet/] [REDACTED] - An active NDA disallows the sharing of this information.
+[color=#babac2]••••••••••••••••••••••••••••••••••[/color]
+[head=3][head=2]3. [/head]Personal Skills.[/head]
+→[italic] Useful skills for various activities.[/italic]
+[color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
+[bullet/]Capable of setting up and maintaining a station powered by an E-62 Singularity generator solo.
+[bullet/]Advanced Marksmen Training
+[bullet/]Advanced Hand-to-Hand combat training.
+[bullet/]Advanced First-aid training.
+[bullet/]Basic Beureaucracy skills
+[color=#babac2]••••••••••••••••••••••••••••••••••[/color]
+[head=3][head=2]4. [/head]Health Conditions.[/head]
+→[italic] Previous and/or current health conditions.[/italic]
+[color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]
+[bullet/] Far-sighted.
+[bullet/] Severe PTSD.
+[color=#babac2]••••••••••••••••••••••••••••••••••[/color]
+[head=3][head=2]5. [/head]Addendum.[/head]
+→[italic] Additional notes.[/italic]
+[color=#D3D3D3]••••••••••••••••••••••••••••••••••[/color]  
+[bullet/] Cellular damage related to bluespace experimentation.
+[bullet/] Parents were killed in bluespace-related accident.
+[bullet/] Has a twin sister, along with several non twins, that work for the same company.
 
-[head=2] Resume [/head]
-[color=#1b67a5 ]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[italic] Courtesy of : Delphine Voltaire, Blueshield Officer [/italic]
-[italic] Form Date : August 28th, 2872 [/italic]
-                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-	
-	[head=3]Education Level[/head]  [color=#e5e5e5]███████████████████████████████[/color]
-	[bullet/] NT™ Primary School
-	[bullet/] NT™ Boot Camp
-	[bullet/] NT™ Advanced Combat Training
-	[bullet/] NT™ Blueshield Officer Training
-	[bullet/] PHD in Nuclear Physics
-	[bullet/] Masters Degree in Healthcare Studies
-	[bullet/] Central Command Basic Orientation Training
-	
-	[head=3]Work History[/head]  [color=#e5e5e5]████████████████████████████[/color]
-	[bold]Nanotransen™ Security Cadet [/bold] - Three Months
-	[bullet/] Top of her class.
-	[bullet/] Apprehended a changeling in a one-on-one fight utilizing a stun baton.
-	[bullet/] Reliable, hard worker.
-	[bold]Nanotrasen™ Detective[/bold] - Two Years
-	[bullet/] Apprehended several criminals
-	[bullet/] Stopped a riot and terminated a traitorous captain.
-	[bold]Central Command Peace-keeping Officer[/bold] - Four Years
-	[bullet/] Killed over 120 syndicates agents.
-	[bullet/] Rejected 152 out of 153 bribery attempts.
-	[bullet/] Killed and revived a total of 236 times.
-	[bold]Central Command Blueshield Officer Corps Liuetenant[/bold] - Four Years and Counting
-	[bullet/] [REDACTED] - An active NDA disallows the sharing of this information.
-	
-	[head=3]Personal Skills[/head]  [color=#e5e5e5]███████████████████████████████████[/color]
-	[bullet/]Capable of setting up and maintaining a station powered by an E-62 Singularity generator solo.
-	[bullet/]Advanced Marksmen Training
-	[bullet/]Advanced Hand-to-Hand combat training.
-	[bullet/]Advanced First-aid training.
-	[bullet/]Basic Bereaucracy skills
-	
-	[head=3]Health Conditions[/head]  [color=#e5e5e5]███████████████████████████████████[/color]
-	[bullet/] Far-sighted.
-	[bullet/] Severe PTSD.
-	
-	[head=3]Additional Notes[/head]  [color=#e5e5e5]███████████████████████████████████[/color]
-	[bullet/] Cellular damage related to bluespace experimentation.
-	[bullet/] Parents were killed in bluespace-related accident.
-	[bullet/] Has a twin sister, along with several non twins, that work for the same company.
-	
-	[italic] Clearance Level : Blue [/italic]
-	
+════════════════════════════════════
 
-
-──────────────────────────────────────────
-
+*[italic][color=#ac3a0d]By reading this document, the reader agrees that they either have the required clearance, or that they consent to memory wiping if neccessary. They reader also agrees to dispose of this paper accordingly if so required by the clearance level.[/italic][/color]
+[color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]  
